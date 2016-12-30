@@ -1,0 +1,1 @@
+This repo contains the iPython notebooks as part of the course Convex and Distributed Optimisation. Implemented Logistic Regression and Matrix Factorization (Recommender System) using PySpark.
